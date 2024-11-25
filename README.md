@@ -10,9 +10,9 @@
 
 **Subscriber:** Represents users or entities subscribed to the news service. Subscribers receive immediate notifications about any breaking news published by the agency.
 
-**Requirements:
+**Requirements:**
 
-Subscription Management:**
+**Subscription Management:**
 
 Users should be able to subscribe to the news service.
 Subscribers should be notified promptly when new news is published.
@@ -33,7 +33,7 @@ The system should be scalable to handle a growing number of subscribers without 
 Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 In your solution you must provide the following in your Github link account:
 
-  Problem statement (description of the problem. Just copy what is stated here.
-  UML Class Diagram
-  Uploaded java codes for the solution.
-  Upload your GitHub Solution link here.
+  Problem statement (description of the problem. Just copy what is stated here.  
+  UML Class Diagram  
+  Uploaded java codes for the solution.  
+  Upload your GitHub Solution link here.  

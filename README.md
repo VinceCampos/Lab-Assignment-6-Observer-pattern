@@ -13,7 +13,6 @@
 **Requirements:**
 
 **Subscription Management:**
-
 Users should be able to subscribe to the news service.
 Subscribers should be notified promptly when new news is published.
 
